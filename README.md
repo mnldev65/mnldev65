@@ -62,7 +62,7 @@ Aplicativo mobile de banco digital desenvolvido em **Flutter**, com autenticaç�
 - 👥 Desenvolvimento colaborativo utilizando Git, GitHub e estratégia de branching para integração de funcionalidades.
 
 📂 **Repositório:**  
-[Ver código-fonte](https://github.com/seu-usuario/banco-digital)
+[Ver código-fonte](https://github.com/mnldev65/Banco_Digital)
 
 <h2>02.  Baratie Gourmet:</h2>
 Website institucional completo para restaurante de alta gastronomia, com foco em UI/UX e performance.
@@ -87,9 +87,9 @@ Website institucional completo para restaurante de alta gastronomia, com foco em
 - ♿ Acessibilidade e semântica HTML
 
 📂 **Repositório:** 
-[Ver projeto ao vivo](link-do-github-pages) | [Código-fonte](link-do-repositório)
+[Ver projeto ao vivo](link-do-github-pages) | [Código-fonte](https://github.com/mnldev65/BaratieGourmet)
 
-> Para ver todos os meus repositórios, [clique aqui](https://github.com/SEU-USUARIO?tab=repositories).
+> Para ver todos os meus repositórios, [clique aqui](https://github.com/mnldev65?tab=repositories).
 
 ---
 
@@ -105,16 +105,6 @@ Website institucional completo para restaurante de alta gastronomia, com foco em
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mnldev65&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnldev65&layout=compact&theme=dracula" width="320"/></td>
-  </tr>
-</table>
-
----
 
 ### ⚡ Git Stats 
 ![Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=mnldev65&theme=dracula)
